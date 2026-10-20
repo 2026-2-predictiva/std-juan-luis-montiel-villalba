@@ -4,9 +4,9 @@ measurement stations around entire world correlated different
 meteorological parameters confront issue different locations rias
 baixas autonomous community galicia spain combinations parameters
 month average temperature among others used develop various machine
-learning models random forest support vector machine artificial neural
-network three approaches used model predict one month ahead monthly
-global solar irradiation using data six measurement stations
+learning models random forest rf support vector machine svm artificial
+neural network ann three approaches used model predict one month ahead
+monthly global solar irradiation using data six measurement stations
 afterwards models applied seven different measurement stations check
 knowledge acquired could extrapolated locations general ann models
 offered best results development testing phases model well phase
